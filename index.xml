@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joslin Goh</title>
-    <link>https://example.com/</link>
+    <link>https://joslin.pw/</link>
     <description>Recent content on Joslin Goh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://joslin.pw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CHI 2021</title>
-      <link>https://example.com/post/chi2021/</link>
+      <link>https://joslin.pw/post/chi2021/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/chi2021/</guid>
+      <guid>https://joslin.pw/post/chi2021/</guid>
       
         <description>Congratulations to Jessy Ceha for her CHI 2021 paper that was awarded Best Paper Honorable Mention.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://joslin.pw/about/</link>
       <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://joslin.pw/about/</guid>
       
         <description>I am the Associate Director of the Statistical Consulting and Collaborative Research Unit, Department of Statistics and Actuarial Science at the University of Waterloo.</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://joslin.pw/research/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
+      <guid>https://joslin.pw/research/</guid>
       
         <description>In recent years, I have been focusing on the application of statistic methodologies to a wide variety of applications.</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Teaching</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://joslin.pw/teaching/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/teaching/</guid>
+      <guid>https://joslin.pw/teaching/</guid>
       
         <description>My personal learning experience &amp;ndash; past and present &amp;ndash; influence the way I teach.</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>https://joslin.pw/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://joslin.pw/archives/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://joslin.pw/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://joslin.pw/contact/</guid>
       
         <description></description>
       

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on Joslin Goh</title>
-    <link>https://example.com/categories/research/</link>
+    <link>https://joslin.pw/categories/research/</link>
     <description>Recent content in research on Joslin Goh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://joslin.pw/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://joslin.pw/research/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
+      <guid>https://joslin.pw/research/</guid>
       
         <description>In recent years, I have been focusing on the application of statistic methodologies to a wide variety of applications.</description>
       
