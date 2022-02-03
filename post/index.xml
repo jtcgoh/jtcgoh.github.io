@@ -6,7 +6,29 @@
     <description>Recent content in Posts on Joslin Goh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://joslin.pw/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://joslin.pw/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teachable Conversational Agents for Crowdwork</title>
+      <link>https://joslin.pw/post/teachable_conversational_agents/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joslin.pw/post/teachable_conversational_agents/</guid>
+      
+        <description>Our paper about teachable conversational agents in crowdwork is accepted to CSCW.</description>
+      
+    </item>
+    
+    <item>
+      <title>Curiosity Notebook</title>
+      <link>https://joslin.pw/post/curiosity_notebook/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://joslin.pw/post/curiosity_notebook/</guid>
+      
+        <description>Hooray! We submitted the camera-ready version of the paper on Curiosity Notebook for CSCW 2021 to ACM.</description>
+      
+    </item>
+    
     <item>
       <title>CHI 2021</title>
       <link>https://joslin.pw/post/chi2021/</link>
