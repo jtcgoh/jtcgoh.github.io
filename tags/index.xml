@@ -6,15 +6,8 @@
     <description>Recent content in Tags on Fiddling with numbers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jtcgoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Newsletter</title>
-      <link>https://jtcgoh.github.io/tags/newsletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jtcgoh.github.io/tags/newsletter/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Blog</title>
       <link>https://jtcgoh.github.io/tags/blog/</link>
@@ -27,6 +20,13 @@
       <link>https://jtcgoh.github.io/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jtcgoh.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newsletter</title>
+      <link>https://jtcgoh.github.io/tags/newsletter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jtcgoh.github.io/tags/newsletter/</guid>
       <description></description>
     </item>
   </channel>
