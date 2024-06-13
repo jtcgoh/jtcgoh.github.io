@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joslin Goh</title>
-    <link>https://joslin.pw/</link>
-    <description>Recent content on Joslin Goh</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 16 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://joslin.pw/index.xml" rel="self" type="application/rss+xml" />
+    <title>Fiddling with numbers</title>
+    <link>https://lightbi-hugo-theme.netlify.app/</link>
+    <description>Recent content on Fiddling with numbers</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lightbi-hugo-theme.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Retinal Image Quality In Those With Diabetes</title>
-      <link>https://joslin.pw/post/retinal_image_diabetes/</link>
+      <title>2024</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2024/publication2024/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2024/publication2024/</guid>
+      <description>Syed. Al, Huang, Y., Goh, J., Moroz, S., Pugsley, J., Waite, N.M., Houle, S. K. D. (2024), &amp;ldquo;The Association between Academic Performance and Entry-to-Practice Milestones within a Co-Operative Education PharmD Program&amp;rdquo;, Pharmacy, 12.</description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2023/publication2023/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2023/publication2023/</guid>
+      <description>Dhalla, R., Felefele, K.B., Zangoulos, J. Khan, A. Goh, J., Atchinson, D.A., Campbell, C.W.&amp;ldquo;Imaging the retina at optimal pupil sizes significantly improves resolution and contrast in those with diabetes.&amp;rdquo; Biophotonics Congress: Optics in the Life Sciences 2023 (OMA, NTM, BODA, OMP, BRAIN), Technical Digest Series (Optica Publishing Group, 2023), paper DTh2A.</description>
+    </item>
+    <item>
+      <title>Collections No.1</title>
+      <link>https://lightbi-hugo-theme.netlify.app/collections/2023/collections/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/collections/2023/collections/</guid>
+      <description>Articles about learn in public, brag document and free stuffs.&#xA;Learn In Public If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule #1.</description>
+    </item>
+    <item>
+      <title>2022</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2022/publication2022/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2022/publication2022/</guid>
+      <description> Chhibber, N., Goh, J., and Law, E. (2022) “Teachable Conversational Agents for Crowdwork: Effects on Performance and Trust”, CSCW 2022. </description>
+    </item>
+    <item>
+      <title>Retinal Image Quality in Diabetic Patients</title>
+      <link>https://lightbi-hugo-theme.netlify.app/post/2022/retinal-image/</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/post/retinal_image_diabetes/</guid>
-      
-        <description>Last year, I met with Rahim, Kaleb and Melanie to discuss how to analyze the data about the eye&amp;rsquo;s optic.</description>
-      
+      <guid>https://lightbi-hugo-theme.netlify.app/post/2022/retinal-image/</guid>
+      <description>Last year, I met with Rahim, Kaleb and Melanie to discuss how to analyze the data about the eye’s optic. It was an educational moment for me when I found that human vision is different between those with and without diabetes.</description>
     </item>
-    
     <item>
-      <title>Teachable Conversational Agents for Crowdwork</title>
-      <link>https://joslin.pw/post/teachable_conversational_agents/</link>
+      <title>Teachable Conversational Agents</title>
+      <link>https://lightbi-hugo-theme.netlify.app/post/2022/teachable-agent/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/post/teachable_conversational_agents/</guid>
-      
-        <description>What a great start to the year! Our paper about teachable conversational agents in crowdwork is accepted to CSCW.</description>
-      
+      <guid>https://lightbi-hugo-theme.netlify.app/post/2022/teachable-agent/</guid>
+      <description>What a great start to the year! Our paper about teachable conversational agents in crowdwork is accepted to CSCW. Congratulations Nalin! It has been a pleasure to join the team on this long journey.</description>
     </item>
-    
     <item>
-      <title>Curiosity Notebook</title>
-      <link>https://joslin.pw/post/curiosity_notebook/</link>
+      <title>2021</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2021/publication2021/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2021/publication2021/</guid>
+      <description>Lee, K. J., Chauhan, A., Goh, J, Nilsen, E., and Law, E. (2021) “Curiosity Notebook: The Design of a Research Platform for Learning by Teaching”, CSCW 2021. Ceha, J., Lee, K.</description>
+    </item>
+    <item>
+      <title>Curiostiy Notebook</title>
+      <link>https://lightbi-hugo-theme.netlify.app/post/2021/curiosity-notebook/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/post/curiosity_notebook/</guid>
-      
-        <description>Hooray! We submitted the camera-ready version of the paper on Curiosity Notebook for CSCW 2021 to ACM.</description>
-      
+      <guid>https://lightbi-hugo-theme.netlify.app/post/2021/curiosity-notebook/</guid>
+      <description>Hooray! We submitted the camera-ready version of the paper on Curiosity Notebook for CSCW 2021 to ACM. Congratulations Ken Jen and team for letting me participate in such amazing work!</description>
     </item>
-    
     <item>
-      <title>CHI 2021</title>
-      <link>https://joslin.pw/post/chi2021/</link>
+      <title>Humourous Conversational Agent</title>
+      <link>https://lightbi-hugo-theme.netlify.app/post/2021/conversational-agent/</link>
       <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/post/chi2021/</guid>
-      
-        <description>Congratulations to Jessy Ceha for her CHI 2021 paper that was awarded Best Paper Honorable Mention.</description>
-      
+      <guid>https://lightbi-hugo-theme.netlify.app/post/2021/conversational-agent/</guid>
+      <description>Congratulations to Jessy Ceha for her CHI 2021 paper that was awarded Best Paper Honorable Mention.</description>
     </item>
-    
     <item>
-      <title>About</title>
-      <link>https://joslin.pw/about/</link>
-      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/about/</guid>
-      
-        <description>I am the Associate Director of the Statistical Consulting and Collaborative Research Unit, Department of Statistics and Actuarial Science at the University of Waterloo.</description>
-      
+      <title>2019</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2019/publication2019/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2019/publication2019/</guid>
+      <description>D’Eon, G., Goh, J., Larson, K. and Law, E. (2019), “Paying Crowd Workers for Collaborative Work”, CSCW 2019. Tomasson-Goodwin, J., Lithgow, K., Goh, J. and Verkoeyen, S. (2019), “Can students be taught to articulate employability skills?</description>
     </item>
-    
     <item>
-      <title>Research</title>
-      <link>https://joslin.pw/research/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/research/</guid>
-      
-        <description>In recent years, I have been focusing on the application of statistic methodologies to a wide variety of applications.</description>
-      
+      <title>2018</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2018/publication2018/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2018/publication2018/</guid>
+      <description>Schaekermann, M., Goh, J., Larson, K. and Law, E. (2018), “Resolvable vs Irresolvable Disagreement: A Study on Worker Deliberation in Crowdwork”, CSCW 2018. Best Paper Award Callaghan, W., Goh, J.</description>
     </item>
-    
     <item>
-      <title>Teaching</title>
-      <link>https://joslin.pw/teaching/</link>
-      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/teaching/</guid>
-      
-        <description>My personal learning experience &amp;ndash; past and present &amp;ndash; influence the way I teach.</description>
-      
+      <title>2017</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2017/change3/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2017/change3/</guid>
+      <description>Law, E., Cai, V., Liu, E., Sajin, S., Goh, J., Blidaru, A. and Kulic, D. (2017), “A Wizard-of-Oz Study of Curiosity in Human-Robot Interaction”, RO-MAN 2017.&#xA;Williams, A., Goh, J.</description>
     </item>
-    
     <item>
-      <title></title>
-      <link>https://joslin.pw/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/archives/</guid>
-      
-        <description></description>
-      
+      <title>2016</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2017/change2/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2017/change2/</guid>
+      <description> Law, E., Yin, Ming, Goh, J., Chen, K., Terry, M. and Krzysztof, G. (2016), “Curiosity Killed the Cat, but Makes Crowdwork Better”, CHI 2016. Best Paper Honorable Mention </description>
     </item>
-    
     <item>
-      <title>Contact</title>
-      <link>https://joslin.pw/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://joslin.pw/contact/</guid>
-      
-        <description></description>
-      
+      <title>2013</title>
+      <link>https://lightbi-hugo-theme.netlify.app/notes/2017/change/</link>
+      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://lightbi-hugo-theme.netlify.app/notes/2017/change/</guid>
+      <description>Goh, J., Bingham, D., Holloway, J.P., Grosskopf, M.J., Kuranz, C.C. and Rutter, E. (2013), “Computer Model Calibration and Prediction Using Outputs From Multi Fidelity Simulators”, Technometrics, 55, 501-512. Kuranz, C.</description>
     </item>
-    
   </channel>
 </rss>

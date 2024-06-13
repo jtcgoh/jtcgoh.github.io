@@ -1,0 +1,12 @@
+---
+Description:
+date: "2023-08-20"
+featured: true
+image: 
+tags:
+- hugo
+- blog
+title: Statistics Workshops
+---
+
+After 4 years hiatus
